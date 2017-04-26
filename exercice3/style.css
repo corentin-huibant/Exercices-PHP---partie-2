@@ -1,0 +1,6 @@
+p {
+    background-color: red;
+    border-left: blue solid 10px;
+    border-right: blue solid 10px;
+    opacity: 0.8;
+}
